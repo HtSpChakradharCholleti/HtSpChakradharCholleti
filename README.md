@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @HtSpChakradharCholleti
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chakradhar.cholleti@arcadis.com
+- 👋 Hi, I’m Chakradhar
+- 👀 I’m interested in building Mobile & Backend systems
+- 🛠 I work with React Native, APIs, and databases
+- 🌱 Currently exploring performance, reliability, and system design
+- 💞️ Open to collaborating on mobile, backend, and architecture discussions
+- 📫 Reach me at: cholletichakradhar@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: dEV
-
-<!---
-HtSpChakradharCholleti/HtSpChakradharCholleti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I’ve spent hours optimizing something users never notice — which is exactly the point.
